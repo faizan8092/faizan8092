@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/faizan8092/faizan8092.github.io](https://github.com/faizan8092/faizan8092.github.io)
 
-- 💬 Ask me about **HTML,CSS,REACT**
+- 💬 Ask me about **JavaScript,HTML,Css,React**
 
 - 📫 How to reach me **ali.faizan2015@gmail.com**
 
