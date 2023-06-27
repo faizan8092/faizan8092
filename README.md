@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Faizan</h1>
-<h3 align="center">A Passionate Full Stack Web Developer from India</h3>
+<h3 align="center">A Passionate Software development engineer in test</h3>
 
 
 
