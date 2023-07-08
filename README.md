@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://faizan8092.github.io/](https://faizan8092.github.io/)
 
-- 💬 Ask me about **Java, Javascript, MySQL, Manual Testing, Selenium, Cypress, Appium, Potman, RestAssured, Jmeter**
+- 💬 Ask me about **Manual Testing, Selenium, Cypress, Appium, Potman, RestAssured, Jmeter,Java, Javascript, MySQL, **
 
 - 📫 How to reach me **ali.faizan2015@gmail.com**
 
