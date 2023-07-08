@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Faizan</h1>
 <h3 align="center">Software Development Engineer in Test (SDET)</h3>
 <h3 align="left">About Me</h3>
-<p align="left">An enthusiastic Software Development Engineer in Test (SDET) with a strong foundation in Java, JavaScript, and the basics of Python, I am passionate about delivering high-quality software solutions. With a keen eye for detail and a commitment to excellence, al testing and have expertise in web automation frameworks such as Selenium and Cypress, as well as API testing with Postman and Rest Assured. I am also proficient in mobile testing with Appium, and CI/CD tool Jenkins. I am dedicated to continuous learning and staying up-to-date with the latest industry trends and best practices.</h3>
+<p align="left">An SDET (Software Development Engineer in Test) is a professional skilled in JavaScript, with basic knowledge of Python and Java. Specialize in testing web applications using tools like Selenium and Cypress, API testing with Postman and Rest Assured, and mobile testing with Appium. I'm also proficient in Jenkins for CI/CD automation. Expertise lies in ensuring software quality and reliability through programming and testing abilities.</h3>
 
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400px" align="right" marginTop="2rem" >
 
