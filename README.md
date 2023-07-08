@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/faizan8092/faizan8092.github.io](https://github.com/faizan8092/faizan8092.github.io)
 
-- 💬 Ask me about **JavaScript,HTML,Css,React**
+- 💬 Ask me about **JavaScript, HTML, CSS, React**
 
 - 📫 How to reach me **ali.faizan2015@gmail.com**
 
@@ -24,7 +24,7 @@
 
 
 ## 🔗 Connect with me
-[![portfolio](https://faizan8092.github.io/)
+[![Portfolio](https://faizan8092.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-faizan-591761203/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/faizan12349)
 
