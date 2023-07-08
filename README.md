@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://dev.to/@faizan8092" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@faizan8092" height="30" width="40" /></a>
 <a href="https://twitter.com/@faizan12349" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@faizan12349" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-faizan-591761203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-faizan-591761203/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-faizan-591761203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-faizan-591761203/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20912677" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20912677" height="30" width="40" /></a>
 </p>
 
