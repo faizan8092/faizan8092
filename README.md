@@ -3,7 +3,7 @@
 <h3 align="left">About Me</h3>
 <p align="left">An enthusiastic Software Development Engineer in Test (SDET) with a strong foundation in Java, JavaScript, and the basics of Python, I am passionate about delivering high-quality software solutions. With a keen eye for detail and a commitment to excellence, al testing and have expertise in web automation frameworks such as Selenium and Cypress, as well as API testing with Postman and Rest Assured. I am also proficient in mobile testing with Appium, and CI/CD tool Jenkins. I am dedicated to continuous learning and staying up-to-date with the latest industry trends and best practices.</h3>
 
-<img src="https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif" alt="" width="400px"/>
+<img src="https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif" alt="" width="400px" align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan8092&label=Profile%20views&color=0e75b6&style=flat" alt="faizan8092" /> </p>
 
