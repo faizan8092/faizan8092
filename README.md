@@ -3,7 +3,7 @@
 
 
 
-![App Screenshot](https://img.freepik.com/free-vector/stay-home-isometric-composition-with-male-character-sitting-table-programming-computer-illustration_1284-64122.jpg?w=740&t=st=1688804038~exp=1688804638~hmac=74141cb65ec8e4f07cc7564088324487e37db838b0cb7a16e9c234baa70bd6e9)
+![App Screenshot](https://img.freepik.com/free-vector/online-trading-isometric_1284-22378.jpg?w=740&t=st=1688805013~exp=1688805613~hmac=93ed77b47724a3978f428394bd048337254f9d15d6ee89032977afd9a100fb4c)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan8092&label=Profile%20views&color=0e75b6&style=flat" alt="faizan8092" /> </p>
